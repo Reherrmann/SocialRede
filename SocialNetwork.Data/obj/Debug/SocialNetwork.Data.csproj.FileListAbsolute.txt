@@ -1,0 +1,9 @@
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Core.dll
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Core.pdb
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.AssemblyReference.cache
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CopyComplete
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Users\017552631\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
